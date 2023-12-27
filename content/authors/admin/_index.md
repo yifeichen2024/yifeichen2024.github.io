@@ -36,7 +36,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: BSc Exchange program 
+    - course: Research Assistant / BSc Exchange program 
       institution: University of Wisconsin Madison 
       year: 2023
     - course: BSc in Robotics Engineering 
@@ -46,9 +46,9 @@ education:
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
-  - name: Technical
+  - name: Mechanical design modeling
     items:
-      - name: Python
+      - name: Design
         description: ''
         percent: 80
         icon: python
@@ -63,7 +63,7 @@ skills:
         percent: 40
         icon: database
         icon_pack: fas
-  - name: Hobbies
+  - name: Programming and control
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
@@ -82,7 +82,8 @@ skills:
         percent: 80
         icon: camera-retro
         icon_pack: fas
-
+  - name: Microcontrollers
+  - 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -117,5 +118,9 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am Yifei Chen, a senior undergraduate student majoring in Robotics Engineering at the Southern University of Science and Technology (SUSTech). Currently, I serve as an undergraduate research assistant at the University of Wisconsin-Madison, where I work under the mentorship of Professor Xiaobin Xiong. I am on track to complete my bachelor's degree in 2024 and am actively preparing to pursue graduate studies. My ultimate objective is to apply my expertise in robotics design and control to groundbreaking research in the field.
+
+My fascination with robotics has been a long-standing passion of mine. Early in my academic journey, I developed a keen interest in robot embedded systems. As I delved deeper into my robotics major, I found myself drawn to the intricacies of high-level robot control. My research and projects have encompassed a wide range of robotics domains, including soft robots, wearable robots, and legged robots.
+
+I am particularly enthusiastic about addressing the critical challenges within mobile robotics, with a specific focus on enhancing energy dynamics and autonomous planning. Robotics is not just a field of study for me; it's a genuine passion that drives me to continuously acquire new skills and contribute to the advancement of this exciting field.
 {style="text-align: justify;"}
