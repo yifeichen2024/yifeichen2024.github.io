@@ -51,13 +51,14 @@ skills:
       - name: Solidworks, AutoCAD, Rhino, Edge CAM
         description: ''
         percent: 90
-        #icon: python
-        #icon_pack: fab
+        # icon: python
+        # icon_pack: fab
       - name: Blender, Adams, Unity 
         description: ''
         percent: 50
-        #icon: database
-        #icon_pack: fas
+        # icon: database
+        # icon_pack: fas
+
   - name: Coding
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -65,19 +66,20 @@ skills:
       - name: MATLAB, C, Python, ROS1
         description: ''
         percent: 80
-        #icon: person-hiking
-        #icon_pack: fas
+        # icon: person-hiking
+        # icon_pack: fas
       - name: ROS2, Mujoco, LabVIEW, OpenCV, Reinforcement learning, Java
         description: ''
         percent: 50
-        #icon: cat
-        #icon_pack: fas
+        # icon: cat
+        # icon_pack: fas
+
   - name: Microcontrollers
       - name: Arduino/ESP32, Texas TI board
         description: ''
         percent: 80
-        #icon: person-hiking
-        #icon_pack: fas
+        # icon: person-hiking
+        # icon_pack: fas
       - name: Stm32
         description: ''
         percent: 50
@@ -85,8 +87,8 @@ skills:
       - name: Skiing
         description: ''
         percent: 90
-        #icon: person-hiking
-        #icon_pack: fas
+        # icon: person-hiking
+        # icon_pack: fas
       - name: Hiking 
         description: ''
         percent: 80
