@@ -85,17 +85,17 @@ skills:
         description: ''
         percent: 50
 
-  - name: Hobbies
-   itmes:
-      - name: Skiing
-        description: ''
-        percent: 90
-        # icon: person-hiking
-        # icon_pack: fas
-      - name: Hiking 
-        description: ''
-        percent: 80
-        
+#  - name: Hobbies
+#   itmes:
+#      - name: Skiing
+#        description: ''
+#        percent: 90
+#        # icon: person-hiking
+#        # icon_pack: fas
+#      - name: Hiking 
+#        description: ''
+#        percent: 80
+
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
