@@ -75,6 +75,7 @@ skills:
         # icon_pack: fas
 
   - name: Microcontrollers
+    items:
       - name: Arduino/ESP32, Texas TI board
         description: ''
         percent: 80
@@ -84,6 +85,7 @@ skills:
         description: ''
         percent: 50
   - name: Hobbies
+   itmes:
       - name: Skiing
         description: ''
         percent: 90
