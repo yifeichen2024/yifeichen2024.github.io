@@ -84,6 +84,7 @@ skills:
       - name: Stm32
         description: ''
         percent: 50
+
   - name: Hobbies
    itmes:
       - name: Skiing
@@ -94,6 +95,7 @@ skills:
       - name: Hiking 
         description: ''
         percent: 80
+        
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
