@@ -48,42 +48,48 @@ education:
 skills:
   - name: Mechanical design modeling
     items:
-      - name: Design
+      - name: Solidworks, AutoCAD, Rhino, Edge CAM
         description: ''
-        percent: 80
-        icon: python
-        icon_pack: fab
-      - name: Data Science
+        percent: 90
+        #icon: python
+        #icon_pack: fab
+      - name: Blender, Adams, Unity 
         description: ''
-        percent: 100
-        icon: chart-line
-        icon_pack: fas
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: database
-        icon_pack: fas
-  - name: Programming and control
+        percent: 50
+        #icon: database
+        #icon_pack: fas
+  - name: Coding
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
+      - name: MATLAB, C, Python, ROS1
         description: ''
         percent: 80
-        icon: camera-retro
-        icon_pack: fas
+        #icon: person-hiking
+        #icon_pack: fas
+      - name: ROS2, Mujoco, LabVIEW, OpenCV, Reinforcement learning, Java
+        description: ''
+        percent: 50
+        #icon: cat
+        #icon_pack: fas
   - name: Microcontrollers
-    
+      - name: Arduino/ESP32, Texas TI board
+        description: ''
+        percent: 80
+        #icon: person-hiking
+        #icon_pack: fas
+      - name: Stm32
+        description: ''
+        percent: 50
+  - name: Hobbies
+      - name: Skiing
+        description: ''
+        percent: 90
+        #icon: person-hiking
+        #icon_pack: fas
+      - name: Hiking 
+        description: ''
+        percent: 80
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
