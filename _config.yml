@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "FrontImage.png"
   name             : "Yifei Chen(陈逸飞)"
-  pronouns         : “He/him”# example: "she/her"  
+  pronouns         : “He/him” # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Evanston/IL"
   employer         : "Northwestern University"
