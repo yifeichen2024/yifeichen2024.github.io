@@ -22,7 +22,7 @@ Work experience
   * Supervisor: Baoqing Liu
   * Develop End-to-end DRL for UAV control in real-world application. Also includes sim-to-real transfer. 
   
-* June-Dec 2024: Research Assistant
+* June-Dec 2023: Research Assistant
   * University of Wisconsin-Madison (UW-Madison)
   * Supervisor: Professor Xiaobin Xiong and Professor Michael Wehner
   * Designed and developed a hybrid energy mechanism in which kinetic energy from a robot's jump is stored as pneumatic energy, boosting the jumping capability.
@@ -33,7 +33,7 @@ Work experience
   * VR Soft Haptic Gloves with Force-tunable Electrostatic Adhesive Brake , Modeling and Optimization of Electrostatic Film Actuators 
   * Supervisor: Professor Git
 
-* winter 2023: Research Assistant(Online)
+* winter 2022: Research Assistant(Online)
   * North Carolina State University(NCSU)
   * Analyzed and evaluated the auxiliary effects of knee joint exoskeleton devices for knee arthritis patients from the perspective of biomechanics
   * Supervisor: Professor Hao Su
