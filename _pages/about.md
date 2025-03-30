@@ -31,8 +31,8 @@ Here are some photos of my life.
 </style>
 
 <div class="gallery">
-  <img src="/images/RoboSoft.JPG" alt="Robosoft">
-  <img src="/images/Presentation" alt="Presentation">
+  <img src="/images/Robosoft.JPG" alt="Robosoft">
+  <img src="/images/Presentation.JPG" alt="Presentation">
   <img src="/images/Back_snow.JPG" alt="Snowboarding1">
   <img src="/images/font_snow.JPG" alt="Snowboarding2">
 </div>
