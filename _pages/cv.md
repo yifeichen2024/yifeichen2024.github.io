@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* M.S. in Mechanical Engineering, Special in Robotics and Automation, GitHub University, 2026(expected)
+* M.S. in Mechanical Engineering, Special in Robotics and Automation, Northwestern University, 2026(expected)
 * B.S. in Robotics Engineering, Southern University of Science and Technology, 2024
 
 Work experience
