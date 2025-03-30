@@ -17,25 +17,16 @@ Here are some photos of my life.
 <style>
 .gallery {
   display: flex;
-  flex-wrap: wrap;
-  gap: 10px; /* 图片间的间距 */
-  justify-content: center; /* 居中对齐 */
+  flex-wrap: nowrap; /* 不换行，所有图片保持在同一行 */
+  justify-content: space-between; /* 均匀分布空隙 */
+  overflow-x: auto; /* 小屏幕时允许水平滚动 */
+  padding: 10px 0;
 }
 .gallery img {
-  width: calc(25% - 10px); /* 每行显示四张图片 */
-  max-width: 300px;        /* 可根据需要设置最大宽度 */
-  height: auto;
-  border-radius: 5px;      /* 图片圆角，可选 */
-}
-@media (max-width: 768px) {
-  .gallery img {
-    width: calc(50% - 10px); /* 小屏幕时两列布局 */
-  }
-}
-@media (max-width: 480px) {
-  .gallery img {
-    width: 100%;  /* 超小屏幕时一列布局 */
-  }
+  display: block;
+  max-height: 250px; /* 根据需要设置统一的最大高度 */
+  width: auto; /* 保持原始比例 */
+  margin: 0 5px;
 }
 </style>
 
