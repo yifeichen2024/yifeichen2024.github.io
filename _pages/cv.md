@@ -14,6 +14,12 @@ Education
 * M.S. in Mechanical Engineering, Special in Robotics and Automation, Northwestern University, 2026(expected)
 * B.S. in Robotics Engineering, Southern University of Science and Technology, 2024
 
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 Work experience
 ======
 
@@ -44,19 +50,15 @@ Skills
   * Skilled in SolidWorks, AutoCAD, Rhino, Edge CAM
   * Basic in Blender, ADAMS
 * Programming and control:
-  * Skilled in MATLAB, Simulink, C++/C, Python, ROS
-  * Basic in ROS2, Unity, Mujoco, LabVIEW, OpenCV, Java
+  * Skilled in MATLAB, Simulink, C++/C, Python, Mujoco, ROS
+  * Basic in ROS2, Unity, LabVIEW, OpenCV, Java
 * Microcontrollers: 
   * Skilled in Arduino/ESP32, Texas TI board; 
   * Basic in Stm32
 * Other related skills: 
   * 3D printing machine Fixing (FDM and SLA), making soft structures with Silica gel, Robot manipulator control, Quadrotor piloting
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
 <!-- Talks
 ======

@@ -1,7 +1,11 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Explosive Legged Robotic Hopping Robot"
+excerpt: "Hybrid energy amplification via pneumatic augmentation for legged robots.<br/><img src='/images/hopper_full.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+This robot stores kinetic energy from its jump as pneumatic energy, significantly boosting its hopping performance. I led the hardware engineering and control system development.  
+- ✅ Published at IEEE IROS 2024.  
+- 📹 [Watch demo video](https://youtu.be/JObkOIaiOqE?si=GrjfINlKFIQjVoe1)
+
+![Full view](/images/hopper_full.png)
