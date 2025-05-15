@@ -17,7 +17,7 @@ Here are some photos of my life.
 <style>
 .gallery {
   display: flex;
-  flex-wrap: nowrap; /* 不换行，所有图片保持在同一行 */
+  flex-wrap: wrap; /* 不换行，所有图片保持在同一行 */
   justify-content: space-between; /* 均匀分布空隙 */
   overflow-x: auto; /* 小屏幕时允许水平滚动 */
   padding: 10px 0;
@@ -31,6 +31,7 @@ Here are some photos of my life.
 </style>
 
 <div class="gallery">
+  <img src="/imahes/dexnex_real.png" alt="dexnex">
   <img src="/images/Robosoft.JPG" alt="Robosoft">
   <img src="/images/Presentation.JPG" alt="Presentation">
   <img src="/images/Back_snow.JPG" alt="Snowboarding1">
