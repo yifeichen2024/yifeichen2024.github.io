@@ -31,7 +31,7 @@ Here are some photos of my life.
 </style>
 
 <div class="gallery">
-  <img src="/imahes/dexnex_real.png" alt="dexnex">
+  <img src="/images/dexnex_real.png" alt="dexnex">
   <img src="/images/Robosoft.JPG" alt="Robosoft">
   <img src="/images/Presentation.JPG" alt="Presentation">
   <img src="/images/Back_snow.JPG" alt="Snowboarding1">

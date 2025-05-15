@@ -1,6 +1,6 @@
 ---
 title: "Simulation Deployment for Bi-Manual Dexterous Teleoperation System"
-excerpt: "Built simulation environments in Drake, MuJoCo, and Genesis to enable teleoperation and policy training for a high-DOF humanoid manipulation platform.<br/><img src='/images/dexnex-drake.png'>"
+excerpt: "Built simulation environments in Drake, MuJoCo, and Genesis to enable teleoperation and policy training for a high-DOF humanoid manipulation platform.<br/><img src='/images/dexnex_real.png'>"
 collection: portfolio
 ---
 
