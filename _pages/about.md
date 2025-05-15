@@ -17,7 +17,7 @@ Here are some photos of my life.
 <style>
 .gallery {
   display: flex;
-  flex-wrap: wrap; /* 不换行，所有图片保持在同一行 */
+  flex-wrap: nowrap; /* 不换行，所有图片保持在同一行 */
   justify-content: space-between; /* 均匀分布空隙 */
   overflow-x: auto; /* 小屏幕时允许水平滚动 */
   padding: 10px 0;
