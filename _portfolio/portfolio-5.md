@@ -25,8 +25,10 @@ This project supports the development of autonomous dexterous manipulation polic
 - 🔁 Cross-simulator consistency allows for policy benchmarking under different dynamics and rendering conditions.
 - 🚀 Accelerated experimentation by reducing setup effort for downstream ML training and hardware integration.
 
-![DexNex Sim View](/images/dexnex-drake.jpg)
+**Robot Model**: https://github.com/yifeichen2024/avater_drake
+
+![DexNex Sim View](/images/dexnex-drake.png)
 *Figure: Simulated DexNex system with dual arms and dexterous hands in a manipulation task.*
 
-![DexNex Sim View](/images/dexnex_real.jpg)
+![DexNex Sim View](/images/dexnex_real.png)
 *Figure: Me with DexNex system with dual arms and dexterous hands.*
