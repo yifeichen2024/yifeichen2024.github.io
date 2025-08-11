@@ -1,6 +1,6 @@
 ---
 title: "Unitree G1 Humanoid Motion Control Deployment"
-excerpt: "Developed and deployed high-/low-level motion control framework for Unitree G1 humanoid robot, enabling dual-arm Dex3 manipulation, whole-body motion policies, and real-time multi-policy ONNX deployment.<br/><img src='/images/teleop.gif'>"
+excerpt: "Developed and deployed high-/low-level motion control framework for Unitree G1 humanoid robot, enabling dual-arm Dex3 manipulation, whole-body motion policies, and real-time multi-policy ONNX deployment. <br/><img src='/images/g1_dance.gif'>  <br/><img src='/images/teleop.gif'>"
 collection: portfolio
 ---
 
@@ -35,6 +35,7 @@ Designed and deployed a **comprehensive high- and low-level control system** for
 
 ---
 <!-- <br/><img src='/images/teleop.gif'> -->
+<br/><img src='/images/g1_dance.gif'>
 
 ## Technical Contributions
 
@@ -56,6 +57,7 @@ Designed and deployed a **comprehensive high- and low-level control system** for
    - Gamepad-controlled operation for safe, interactive testing.
 
 ---
+<br/><img src='/images/teleop.gif'>
 
 ## Impact
 
