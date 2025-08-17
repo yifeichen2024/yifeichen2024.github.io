@@ -71,7 +71,7 @@ Enabled STARBOT INC to **deploy complex locomotion and manipulation behaviors** 
 ---
 **Robot Github**: https://github.com/yifeichen2024/G1_deploy/tree/main
 
-It can implement with 
+It can implement with language model:
 <br/>
 <video controls autoplay muted loop width="600">
   <source src="/videos/understanding_cmd.mp4" type="video/mp4">
