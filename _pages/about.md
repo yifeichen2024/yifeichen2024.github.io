@@ -18,7 +18,7 @@ redirect_from:
       In 2023, I worked as a visiting research assistant at the University of Wisconsin–Madison, advised by <strong>Prof. Xiaobin Xiong</strong> and <strong>Dr. Michael Wehner</strong>.  
     </p>
     <p>
-      My research interests include robotic manipulation and learning, dexterous hand control, optimal and reinforcement control, and real-time embedded systems.
+      My research interests include dexterous manipulation, reinforcement learning, optimal control, real-time embedded systems, and humaniod robot of course.
     </p>
   </div>
 
