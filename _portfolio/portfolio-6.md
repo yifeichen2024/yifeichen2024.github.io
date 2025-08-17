@@ -15,6 +15,11 @@ collection: portfolio
 Designed and deployed a **comprehensive high- and low-level control system** for the **Unitree G1 humanoid robot**, integrating dual-arm manipulation with **Dex3 hands**, whole-body locomotion policies from  simulation (PBHC), and safety-checked real-time multi-policy switching.
 
 ---
+<br/>
+<video controls autoplay muted loop width="600">
+  <source src="/videos/Restruant_service.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Highlights
 
@@ -65,3 +70,10 @@ Enabled STARBOT INC to **deploy complex locomotion and manipulation behaviors** 
 
 ---
 **Robot Github**: https://github.com/yifeichen2024/G1_deploy/tree/main
+
+It can implement with 
+<br/>
+<video controls autoplay muted loop width="600">
+  <source src="/videos/understanding_cmd.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>

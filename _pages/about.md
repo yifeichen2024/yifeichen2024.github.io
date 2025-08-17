@@ -11,6 +11,21 @@ I am Yifei Chen (陈逸飞), a first year master student in Mechanical Engineeri
 
 Outside of school, I am a lover of popping, snowboarding, running and travel. 
 
+===
+Some interesting showcase I tried of humanoid robot involved in our daily life!  
+
+<br/>
+<video controls autoplay muted loop width="600">
+  <source src="/videos/Restruant_service.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<br/>
+<video controls autoplay muted loop width="600">
+  <source src="/videos/understanding_cmd.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ====
 Here are some photos of my life. 
 <!-- 插入四张图片的区域 -->
