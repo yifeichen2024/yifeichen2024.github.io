@@ -56,7 +56,7 @@ redirect_from:
     </div>
     <figcaption>[on-going] Stable in-hand manipulation resist gravity external disturbance</figcaption>
   </figure>
-</div>
+  
   <figure class="video-card">
     <div class="video-wrap">
       <video controls autoplay muted loop playsinline>
