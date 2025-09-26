@@ -51,6 +51,15 @@ redirect_from:
   <figure class="video-card">
     <div class="video-wrap">
       <video controls autoplay muted loop playsinline>
+        <source src="/videos/in_hand_manipulation.mp4" type="video/mp4">
+      </video>
+    </div>
+    <figcaption>[on-going] Stable in-hand manipulation resist gravity external disturbance</figcaption>
+  </figure>
+</div>
+  <figure class="video-card">
+    <div class="video-wrap">
+      <video controls autoplay muted loop playsinline>
         <source src="/videos/Restruant_service.mp4" type="video/mp4">
       </video>
     </div>
