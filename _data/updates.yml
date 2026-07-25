@@ -1,0 +1,16 @@
+- date: 2025-05-11
+  label: Publication
+  title: "In-Hand Manipulation with Enforced Grasp Stability accepted at ICRA CRM Workshop"
+  description: "A reinforcement learning framework for contact-rich dexterous manipulation with force-torque sensing and force-closure rewards."
+  url: "/publication/2025-05-11-grasp-stability"
+
+- date: 2025-05-04
+  label: Writing
+  title: "New blog note on humanoid motion retargeting"
+  description: "Notes on human motion data, embodiment gaps, imitation learning, and retargeting pipelines for humanoid robots."
+  url: "/posts/2026/01/Humanoid/"
+
+- date: 2024-09-01
+  label: Research
+  title: "Started M.S. study at Northwestern University"
+  description: "Joined the Center for Robotics and Biosystems, advised by Prof. Kevin M. Lynch."
